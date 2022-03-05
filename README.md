@@ -1,0 +1,15 @@
+# Features
+- Custom keybinds for keyboard and mouse buttons
+- Savestates
+- Change emulation speed and display options
+- Run multiple emulators in parallel (may be buggy)
+- SRAM for persistent data between sessions
+- Support for mappers 0, 1, 2, 3, 4, 7, 6, and 140
+- Debugging
+  - Modify RAM
+  - Dump RAM to file
+  - Step by master clock, cpu clock, scanline, or frame
+  - Step through disassembly
+  - View ppu vram and nametables
+  - Modify ppu palette
+  - View loaded sprites
